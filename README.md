@@ -1,1 +1,1 @@
-# MTD-SafeBrowsing-Tester-privacy
+# Privacy policy for the MTD SafeBrowsing Tester iOS application.
